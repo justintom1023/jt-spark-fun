@@ -1,0 +1,18 @@
+name,HDMR,BDMR,LDMR,HDLR,BDLR,LDLR,if_secundary_mode,desc_secundary_mode,resource
+CLASSIC,78,66,26,22,22,18,TRUE,scope,shotgun
+SHORTY,24,12,10,16,8,6,FALSE,None,None
+FRENZY,78,26,22,63,21,17,FALSE,None,None
+GHOST,105,30,25,87,25,21,FALSE,None,silencer
+SHERIFF,159,55,46,145,50,42,FALSE,None,None
+STINGER,67,27,22,62,25,21,TRUE,scope,None
+SPECTRE,78,26,22,66,22,18,TRUE,scope,silencer
+BUCKY,40,20,17,26,13,11,TRUE,ar impact,None
+JUDGE,34,17,14,20,10,8,FALSE,None,None
+BULLDOG,115,35,29,115,35,29,TRUE,scope,None
+GUARDIAN,195,65,48,195,65,48,TRUE,scope,None
+PHANTOM,140,124,35,31,29,26,TRUE,scope,silencer
+VANDAL,160,40,34,160,40,34,TRUE,scope,None
+MARSHAL,202,101,85,202,101,85,TRUE,scope,None
+OPERATOR,255,255,150,150,120,120,TRUE,scope,double zoom
+ARES,72,67,30,28,25,23,TRUE,scope,increase in rate of fire
+ODIN,95,77,38,31,32,26,TRUE,scope,increase in rate of fire

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Boots",
+        "damage": 17,
+        "description": "Standard boots. Great for jumping on basic enemies."
+    },
+    {
+        "name": "Iron Boots",
+        "damage": 19,
+        "description": "Stronger than regular boots - and they can stomp spiked enemies!"
+    },
+    {
+        "name": "Shiny Boots",
+        "damage": 21,
+        "description": "Stronger than Iron Boots, but can't stomp spiked enemies."
+    },
+    {
+        "name": "Gold Boots",
+        "damage": 24,
+        "description": "Wear these to stomp a few coins out of your enemies!"
+    },
+    {
+        "name": "Shiny Iron Boots",
+        "damage": 24,
+        "description": "Stronger and shinier than your regular Iron Boots."
+    },
+    {
+        "name": "Flashy Boots",
+        "damage": 27,
+        "description": "Stronger than Shiny Boots, but can't stomp spiked enemies."
+    },
+    {
+        "name": "Flashy Iron Boots",
+        "damage": 30,
+        "description": "Stronger and fancier than regular Iron Boots. They can deal huge damage!"
+    },
+    {
+        "name": "Legendary Boots",
+        "damage": 34,
+        "description": "The strongest boots of all. Still cannot stomp spiked enemies."
+    },
+    {
+        "name": "Legendary Iron Boots",
+        "damage": 34,
+        "description": "The strongest type of Iron Boots. Crush your spiked foes!"
+    }
+]

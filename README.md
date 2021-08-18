@@ -14,6 +14,6 @@ Here are some mini projects that I have worked on while learning Apache Spark wi
 [VALORANT Weapons](https://www.kaggle.com/abilionb/valorant-weapon-dataset)  
 
 ### Machine Learning:
-[Random Linear Regression](https://www.kaggle.com/andonians/random-linear-regression)
-[Diabetics Prediction](https://www.kaggle.com/kandij/diabetes-dataset)
+[Random Linear Regression](https://www.kaggle.com/andonians/random-linear-regression)  
+[Diabetics Prediction](https://www.kaggle.com/kandij/diabetes-dataset)  
 [Mall Customers](https://www.kaggle.com/andonians/random-linear-regression)

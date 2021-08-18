@@ -8,7 +8,7 @@ Here are some mini projects that I have worked on while learning Apache Spark wi
 [IWGP Heavyweight Champions](https://en.wikipedia.org/wiki/IWGP_Heavyweight_Championship)  
 
 ### To Dataframe:
-[Paper Mario: The Origami King Boots] (https://www.mariowiki.com/List_of_Paper_Mario:_The_Origami_King_weapons)
+[Paper Mario: The Origami King Boots](https://www.mariowiki.com/List_of_Paper_Mario:_The_Origami_King_weapons)
 
 ### Joins and Aggregations:
 [VALORANT Weapons](https://www.kaggle.com/abilionb/valorant-weapon-dataset)  

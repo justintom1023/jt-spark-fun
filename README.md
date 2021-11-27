@@ -1,6 +1,6 @@
 # jt-spark-fun
 
-Here are some mini projects that I have worked on while learning Apache Spark with Java.
+Here are some small projects that I have worked on while learning Apache Spark with Java.
 
 ## Dataset Sources:
 
